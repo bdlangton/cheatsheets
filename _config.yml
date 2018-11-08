@@ -52,12 +52,12 @@ defaults:
 
 # Site info
 
-url: https://devhints.io
-title: Devhints.io cheatsheets
+url: https://bdlangton.github.io/cheatsheets/
+title: Barrett's cheatsheets
 
 # GitHub metadata
 # https://help.github.com/articles/repository-metadata-on-github-pages/
 
-repository: rstacruz/cheatsheets
+repository: bdlangton/cheatsheets
 
 theme: jekyll-theme-slate
