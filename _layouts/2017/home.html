@@ -4,10 +4,6 @@
 {% assign featured_pages = site.pages
   | where_exp: "page", "page.tags contains 'Featured'"
 %}
-{% assign recent_pages = site.pages
-  | where_exp: "page", "page.updated"
-  | sort: "updated", "first"
-%}
 {% include 2017/head.html critical='home' %}
 
 </head><body>
@@ -48,17 +44,6 @@
     {% for page in featured_pages %}
       {% include 2017/pages-list-item.html page=page class='item top-sheet' %}
     {% endfor %}
-
-    <h2 class='category item' data-js-searchable-header>
-      <span>Recently updated</span>
-    </h2>
-
-    {% for page in recent_pages reversed %}
-      {% if forloop.index <= 18 %}
-        {% include 2017/pages-list-item.html page=page class='article item' %}
-      {% endif %}
-    {% endfor %}
-
 
     {% for category in site.data.categories.names %}
       <h2 class='category item' id='{{ category | downcase | replace: " ", "-" }}' data-js-searchable-header>
