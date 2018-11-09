@@ -16,10 +16,6 @@ social_list:
   facebook_share: Share on Facebook
   twitter_share: Share on Twitter
 
-related_posts_callout:
-  description: Over SIZE curated cheatsheets, by developers for developers.
-  link: Devhints home
-
 related_posts_group:
   top: Top cheatsheets
   other: Other cheatsheets
@@ -29,10 +25,6 @@ search_form:
   default_placeholder: Search SIZE+ cheatsheets
   home_placeholder: Search...
   prefix: devhints.io
-
-comments_area:
-  suffix: for this cheatsheet.
-  link: "Write yours!"
 
 not_found:
   title: Not found

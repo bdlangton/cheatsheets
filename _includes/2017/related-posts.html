@@ -14,22 +14,6 @@
 <footer class='related-posts-area' id='related' data-js-no-preview>
   <div class='container'>
     <div class='related-posts-section'>
-      <div class='callout'>
-        <a class='related-posts-callout' href='{{ base }}'>
-          <div class='text'>
-            <i class='icon'></i>
-
-            <span class='description'>
-              {{ site.data.content.related_posts_callout.description | replace: "SIZE", size }}
-            </span>
-
-            <span class='push-button -dark'>
-              {{ site.data.content.related_posts_callout.link }}
-            </span>
-          </div>
-        </a>
-      </div>
-
       <div class='group'>
         <div class='related-posts-group'>
           {% if include.page.category == 'Others' %}
