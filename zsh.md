@@ -2,6 +2,7 @@
 title: zsh
 category: CLI
 layout: 2017/sheet
+tags: [Featured]
 ---
 
 ### Expressions

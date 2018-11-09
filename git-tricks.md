@@ -1,6 +1,7 @@
 ---
 title: Git tricks
 category: Git
+tags: [Featured]
 ---
 
 ## Refs

@@ -2,7 +2,7 @@
 title: jQuery
 category: JavaScript libraries
 layout: 2017/sheet
-tags: [WIP]
+tags: [WIP,Featured]
 weight: -1
 ---
 

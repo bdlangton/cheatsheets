@@ -2,6 +2,7 @@
 title: AWS CLI
 category: Devops
 layout: 2017/sheet
+tags: [Featured]
 ---
 
 ### EC2

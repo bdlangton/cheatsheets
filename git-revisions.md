@@ -2,6 +2,7 @@
 title: Git revisions
 category: Git
 layout: 2017/sheet
+tags: [Featured]
 updated: 2017-10-11
 description: ""
 intro: |

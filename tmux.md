@@ -1,5 +1,6 @@
 ---
 title: tmux
+tags: [Featured]
 ---
 
 ### Commands

@@ -2,6 +2,7 @@
 title: sed
 category: CLI
 layout: 2017/sheet
+tags: [Featured]
 intro: |
   Here's home hints on using sed.
 ---

@@ -2,6 +2,7 @@
 title: JavaScript Date
 category: JavaScript
 layout: 2017/sheet
+tags: [Featured]
 weight: -3
 ---
 

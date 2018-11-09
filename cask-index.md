@@ -740,7 +740,6 @@ title: Caskroom index
 - [infinit](https://infinit.io/)
 - [inform](http://inform7.com/)
 - [injection](http://injectionforxcode.com/)
-- [inkscape](http://inkscape.org)
 - [inky](http://inky.com)
 - [insertpic](http://www.getinsertpic.com/)
 - [instabridge](http://instabridge.com/)

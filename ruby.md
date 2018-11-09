@@ -1,6 +1,7 @@
 ---
 title: Ruby
 category: Ruby
+tags: [Featured]
 ---
 
 * `$!` - latest error message
