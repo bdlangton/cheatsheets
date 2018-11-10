@@ -2,7 +2,6 @@
 title: Git log format string
 category: Git
 layout: 2017/sheet
-tags: [Featured]
 updated: 2017-10-18
 weight: -1
 keywords:

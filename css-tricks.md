@@ -2,7 +2,6 @@
 title: CSS tricks
 category: CSS
 layout: 2017/sheet
-tags: [Featured]
 ---
 
 ### Heading kerning pairs and ligature

@@ -2,7 +2,6 @@
 title: CSS
 category: CSS
 layout: 2017/sheet
-tags: [Featured]
 weight: -1
 keywords:
   - "margin, padding, border"

@@ -2,7 +2,6 @@
 title: git log
 category: Git
 layout: 2017/sheet
-tags: [Featured]
 ---
 
 ### Revision ranges

@@ -1,7 +1,6 @@
 ---
 title: Git extras
 category: Git
-tags: [Featured]
 ---
 
 ### Git-flow

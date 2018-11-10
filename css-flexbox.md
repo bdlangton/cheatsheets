@@ -2,7 +2,6 @@
 title: CSS flexbox
 category: CSS
 layout: 2017/sheet
-tags: [Featured]
 updated: 2017-08-29
 prism_languages: [css]
 weight: -3
