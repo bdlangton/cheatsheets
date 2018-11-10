@@ -1,6 +1,6 @@
 ---
 title: Deku v1
-category: JavaScript libraries
+category: Hidden
 ---
 
 This is for Deku v1. See [deku](./deku) for a more updated cheatsheet.

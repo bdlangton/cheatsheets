@@ -1,6 +1,6 @@
 ---
 title: Bookshelf.js
-category: JavaScript libraries
+category: Hidden
 ---
 
 Model

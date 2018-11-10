@@ -1,6 +1,6 @@
 ---
 title: Elixir metaprogramming
-category: Elixir
+category: Hidden
 ---
 
 ## Kernel

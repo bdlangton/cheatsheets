@@ -1,6 +1,6 @@
 ---
 title: Weechat
-category: Apps
+category: Hidden
 layout: 2017/sheet
 ---
 

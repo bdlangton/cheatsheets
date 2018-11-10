@@ -1,6 +1,6 @@
 ---
 title: Deku v2
-category: JavaScript libraries
+category: Hidden
 ---
 
 ## Components

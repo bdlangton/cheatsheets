@@ -1,6 +1,6 @@
 ---
 title: ReStructuredText
-category: Markup
+category: Hidden
 ---
 
 ### Comments

@@ -1,6 +1,6 @@
 ---
 title: Ledger periods
-category: Ledger
+category: Hidden
 ---
 
     [INTERVAL] [BEGIN] [END]

@@ -1,6 +1,6 @@
 ---
 title: Koa
-category: JavaScript libraries
+category: Hidden
 ---
 
 ### Reference

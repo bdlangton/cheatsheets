@@ -1,6 +1,6 @@
 ---
 title: Weinre
-category: JavaScript libraries
+category: Hidden
 ---
 
  * [Weinre](http://people.apache.org/~pmuellr/weinre/)

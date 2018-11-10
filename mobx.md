@@ -1,6 +1,6 @@
 ---
 title: Mobx
-category: JavaScript libraries
+category: Hidden
 layout: 2017/sheet
 updated:  2017-05-14
 ---

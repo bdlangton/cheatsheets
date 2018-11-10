@@ -1,6 +1,6 @@
 ---
 title: bluebird.js
-category: JavaScript libraries
+category: Hidden
 layout: 2017/sheet
 weight: -1
 updated: 2017-09-04

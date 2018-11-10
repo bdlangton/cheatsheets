@@ -1,6 +1,6 @@
 ---
 title: Harvey.js
-category: JavaScript libraries
+category: Hidden
 layout: 2017/sheet
 intro: |
   [Harvey.js](http://harvesthq.github.io/harvey/) helps you build responsive interfaces.

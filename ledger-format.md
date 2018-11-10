@@ -1,6 +1,6 @@
 ---
 title: Ledger format
-category: Ledger
+category: Hidden
 ---
 
 ```

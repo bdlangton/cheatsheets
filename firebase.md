@@ -1,5 +1,6 @@
 ---
 title: Firebase
+category: Hidden
 prism_languages: [coffeescript]
 tags: [WIP]
 layout: 2017/sheet

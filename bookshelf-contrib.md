@@ -1,3 +1,4 @@
+category: Hidden
 # bookshelf-contrib.Scopes
 #
 class Books

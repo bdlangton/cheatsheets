@@ -1,6 +1,6 @@
 ---
 title: Lodash
-category: JavaScript libraries
+category: Hidden
 layout: 2017/sheet
 weight: -3
 updated: 2017-10-17

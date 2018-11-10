@@ -1,7 +1,7 @@
 ---
 title: Mouse Acceleration
 layout: 2017/sheet
-category: macOS
+category: Hidden
 updated: 2018-03-20
 weight: -1
 keywords:

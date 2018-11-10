@@ -1,6 +1,6 @@
 ---
 title: adb (Android Debug Bridge)
-category: CLI
+category: Hidden
 layout: 2017/sheet
 weight: -1
 authors:

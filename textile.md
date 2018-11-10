@@ -1,6 +1,6 @@
 ---
 title: Textile
-category: Markup
+category: Hidden
 layout: 2017/sheet
 updated: 2017-09-20
 weight: -1

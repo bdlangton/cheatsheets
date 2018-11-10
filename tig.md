@@ -1,6 +1,6 @@
 ---
 title: Tig
-category: Git
+category: Hidden
 layout: 2017/sheet
 updated: 2017-08-29
 weight: -3

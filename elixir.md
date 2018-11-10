@@ -1,6 +1,6 @@
 ---
 title: Elixir
-category: Elixir
+category: Hidden
 layout: 2017/sheet
 tags: [New]
 updated: 2017-08-26

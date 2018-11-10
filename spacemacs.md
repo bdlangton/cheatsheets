@@ -1,7 +1,7 @@
 ---
 title: Spacemacs
 layout: 2017/sheet
-category: Apps
+category: Hidden
 updated: 2018-02-15
 tags: [WIP]
 intro: |

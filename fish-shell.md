@@ -1,6 +1,6 @@
 ---
 title: Fish shell
-category: CLI
+category: Hidden
 layout: 2017/sheet
 prism_languages: [fish]
 updated: 2017-10-16

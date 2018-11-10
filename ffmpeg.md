@@ -1,6 +1,6 @@
 ---
 title: ffmpeg
-category: CLI
+category: Hidden
 layout: 2017/sheet
 ---
 

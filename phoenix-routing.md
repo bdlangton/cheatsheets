@@ -1,6 +1,6 @@
 ---
 title: "Phoenix: Routing"
-category: Elixir
+category: Hidden
 layout: 2017/sheet
 weight: -1
 ---

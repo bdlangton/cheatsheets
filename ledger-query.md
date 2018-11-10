@@ -1,6 +1,6 @@
 ---
 title: Ledger queries
-category: Ledger
+category: Hidden
 layout: 2017/sheet
 ---
 

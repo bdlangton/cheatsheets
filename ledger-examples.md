@@ -1,6 +1,6 @@
 ---
 title: Ledger examples
-category: Ledger
+category: Hidden
 ---
 
 Inspecting transactions:

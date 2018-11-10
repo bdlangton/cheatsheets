@@ -1,6 +1,6 @@
 ---
 title: Rdoc
-category: Markup
+category: Hidden
 layout: 2017/sheet
 ---
 

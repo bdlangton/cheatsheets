@@ -1,6 +1,6 @@
 ---
 title: Middleman 3
-category: JavaScript libraries
+category: Hidden
 ---
 
 **NB:** This is for Middleman 3, not Middleman 4+.

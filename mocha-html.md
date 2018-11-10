@@ -1,6 +1,6 @@
 ---
 title: Mocha HTML
-category: JavaScript libraries
+category: Hidden
 ---
 
 This is a mocha template that loads js/css from cdn.

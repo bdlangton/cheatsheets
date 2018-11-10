@@ -1,6 +1,6 @@
 ---
 title: Kramdown
-category: Markup
+category: Hidden
 ---
 
 ### Configuration

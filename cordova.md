@@ -1,5 +1,6 @@
 ---
 title: Cordova
+category: Hidden
 ---
 
     cordova plugin ls

@@ -1,6 +1,6 @@
 ---
 title: "Phoenix: Ecto"
-category: Elixir
+category: Hidden
 layout: 2017/sheet
 tags: [WIP]
 updated: 2017-08-29

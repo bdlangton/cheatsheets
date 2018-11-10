@@ -1,6 +1,6 @@
 ---
 title: Ledger CLI
-category: Ledger
+category: Hidden
 layout: 2017/sheet
 updated: 2017-08-26
 weight: -5

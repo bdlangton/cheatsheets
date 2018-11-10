@@ -2,7 +2,7 @@
 title: AppleScript
 updated: 2018-03-17
 layout: 2017/sheet
-category: macOS
+category: Hidden
 prism_languages: [applescript]
 ---
 

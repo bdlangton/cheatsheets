@@ -1,6 +1,6 @@
 ---
 title: Pug
-category: JavaScript libraries
+category: Hidden
 layout: 2017/sheet
 prism_languages: [jade]
 updated: 2017-08-31

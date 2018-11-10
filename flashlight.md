@@ -1,6 +1,6 @@
 ---
 title: Flashlight
-category: Apps
+category: Hidden
 layout: 2017/sheet
 ---
 

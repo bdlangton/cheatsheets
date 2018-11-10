@@ -1,6 +1,6 @@
 ---
 title: Hledger
-category: Ledger
+category: Hidden
 ---
 
 ## Reporting

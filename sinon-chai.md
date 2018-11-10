@@ -1,6 +1,6 @@
 ---
 title: Sinon-chai
-category: JavaScript libraries
+category: Hidden
 layout: default-ad
 ---
 

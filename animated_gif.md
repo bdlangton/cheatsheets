@@ -1,6 +1,6 @@
 ---
 title: Animated GIFs
-category: CLI
+category: Hidden
 layout: 2017/sheet
 ---
 

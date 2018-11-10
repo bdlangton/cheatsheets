@@ -1,6 +1,6 @@
 ---
 title: Flynn
-category: Devops
+category: Hidden
 layout: 2017/sheet
 ---
 

@@ -2,7 +2,7 @@
 title: Org Mode
 layout: 2017/sheet
 tags: [WIP]
-category: Apps
+category: Hidden
 updated: 2018-02-19
 intro: |
   [Org mode](https://orgmode.org/) is for keeping hierarchal notes (and more) in Emacs.

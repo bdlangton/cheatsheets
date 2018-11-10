@@ -1,6 +1,6 @@
 ---
 title: Superagent
-category: JavaScript libraries
+category: Hidden
 ---
 
 ### Result

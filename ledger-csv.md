@@ -1,6 +1,6 @@
 ---
 title: Ledger CSV format
-category: Ledger
+category: Hidden
 layout: 2017/sheet
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Divshot
+category: Hidden
 ---
 
 ## Getting started

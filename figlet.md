@@ -1,5 +1,6 @@
 ---
 title: Figlet
+category: Hidden
 layout: 2017/sheet
 updated: 2017-10-08
 introduction: |
